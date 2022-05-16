@@ -1,8 +1,8 @@
-# Docker_SentimentAnalysis
-This repo shows how I built and and containerized a sentiment analyzer.
+# Step by Step: Containerizing a Sentiment Analyzer
 
-The process was developed using Ubuntu on WSL2 through Windows Terminal.
+This repo shows in details how I built and and containerized a sentiment analyzer.
 
-FastAPI was used to deploy the model.
+# Prerequisites
+The process was developed using Ubuntu on WSL2 through Windows Terminal. FastAPI was used to deploy the model and Docker was used to create the container.
 
-Docker was used to create the container.
+# Part 1
