@@ -10,9 +10,11 @@ Create a new GitHub repository, virtual environment, and local server.
 
 In Ubuntu,create and activate a new virtual environment:
 
-Markup : conda create -n fastapi_env python=3.8 pip
+```python
+conda create -n fastapi_env python=3.8 pip
 
 conda activate fastapi_env
+```
 
 Install required packages:
 
