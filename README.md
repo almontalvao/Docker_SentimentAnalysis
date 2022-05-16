@@ -5,7 +5,7 @@ This repo shows in details how to use the containerized sentiment analyser devel
 ## Create a folder and set it as your directory
 
 ```python
-cd Docker/SentimentAnalysis
+mkdir my_container && cd $_
 ```
 
 ## Clone this repo 
