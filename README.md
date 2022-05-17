@@ -22,3 +22,15 @@ docker run -dp 8000:8000 fastapi-demo
 ```
 
 ## Access the API
+
+To access the API:
+
+```python
+POST http://YOUR_IP_ADDRESS/predict_sentiment
+```
+
+For example, replace the string as below:
+
+```python
+{"query_string": "excited"}
+```
